@@ -1,0 +1,5 @@
+#機密情報
+password.txt
+
+#開発に不要なファイル
+.DS_Store
